@@ -11,4 +11,11 @@ nascimento_dia = int(input("Em que dia você nasceu? "))
 nascimento_mes = int(input("De qual mês? "))
 nascimento_ano = int(input("Em qual ano? "))
 
-print(f"{nome}, você nasceu em {nascimento_dia}/{nascimento_mes}/{nascimento_ano}")
+print(f"{nome}, você nasceu em {nascimento_dia}/{nascimento_mes}/{nascimento_ano}!")
+
+# DESAFIO 3
+
+numero_1 = int(input("Digite um numero inteiro: "))
+numero_2 = int(input("Digite outro numero inteiro: "))
+
+print(numero_1 + numero_2)
